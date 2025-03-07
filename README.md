@@ -1,2 +1,1 @@
-# developer-portfolio-cms
-A repository for a developer portfolio CMS
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
